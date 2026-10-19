@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.kodular.rgvrewards",
+      "sha256_cert_fingerprints": [
+        "77:AC:D4:49:87:A1:E3:33:88:D7:42:9E:18:78:94:53:9F:A9:65:BA:86:BD:99:CC:D1:A9:E3:B6:40:FD:F5"
+      ]
+    }
+  }
+]
